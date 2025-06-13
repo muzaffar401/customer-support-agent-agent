@@ -1,0 +1,1056 @@
+{
+  "product_analysis": {
+    "EL001": {
+      "category": "electronics",
+      "price_range": "high",
+      "brand": "Apple",
+      "key_features": [
+        "M2 Pro chip",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Retina display"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:46.987367",
+      "image_status": "Image analysis successful"
+    },
+    "EL002": {
+      "category": "electronics",
+      "price_range": "medium",
+      "brand": "Sony",
+      "key_features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Hi-Res Audio",
+        "Touch controls"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:48.776682",
+      "image_status": "Image analysis successful"
+    },
+    "EL003": {
+      "category": "electronics",
+      "price_range": "high",
+      "brand": "Samsung",
+      "key_features": [
+        "200MP main camera",
+        "S Pen included",
+        "5000mAh battery",
+        "12GB RAM"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:49.526384",
+      "image_status": "Image analysis successful"
+    },
+    "EL004": {
+      "category": "electronics",
+      "price_range": "high",
+      "brand": "Apple",
+      "key_features": [
+        "M2 chip",
+        "Liquid Retina XDR display",
+        "ProMotion technology",
+        "Thunderbolt 4"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:49.637356",
+      "image_status": "Image analysis successful"
+    },
+    "EL005": {
+      "category": "electronics",
+      "price_range": "high",
+      "brand": "Dell",
+      "key_features": [
+        "12th Gen Intel Core i7",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA RTX 3050 Ti"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:53.852857",
+      "image_status": "Image analysis successful"
+    },
+    "CL001": {
+      "category": "clothing",
+      "price_range": "medium",
+      "brand": "",
+      "key_features": [
+        "Air cushioning",
+        "Breathable mesh",
+        "Durable outsole",
+        "Comfortable fit"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:54.155968",
+      "image_status": "Image analysis successful"
+    },
+    "CL002": {
+      "category": "clothing",
+      "price_range": "medium",
+      "brand": "",
+      "key_features": [
+        "Boost midsole",
+        "Primeknit upper",
+        "Continental rubber outsole",
+        "Adaptive fit"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:54.338616",
+      "image_status": "Image analysis successful"
+    },
+    "CL003": {
+      "category": "clothing",
+      "price_range": "low",
+      "brand": "",
+      "key_features": [
+        "Button fly",
+        "Straight leg",
+        "Classic fit",
+        "Durable construction"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:54.605659",
+      "image_status": "Image analysis successful"
+    },
+    "CL004": {
+      "category": "clothing",
+      "price_range": "medium",
+      "brand": "",
+      "key_features": [
+        "700-fill down",
+        "Water-resistant",
+        "Durable shell",
+        "Warm and lightweight"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:55.940488",
+      "image_status": "Image analysis successful"
+    },
+    "CL005": {
+      "category": "clothing",
+      "price_range": "low",
+      "brand": "",
+      "key_features": [
+        "Quick-drying",
+        "Anti-odor",
+        "UV protection",
+        "Comfortable fit"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:56.170729",
+      "image_status": "Image analysis successful"
+    },
+    "HM001": {
+      "category": "home",
+      "price_range": "high",
+      "brand": "Dyson",
+      "key_features": [
+        "Laser dust detection",
+        "60-minute runtime",
+        "HEPA filtration",
+        "Smart features"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:56.419649",
+      "image_status": "Image analysis successful"
+    },
+    "HM002": {
+      "category": "home",
+      "price_range": "medium",
+      "brand": "Philips",
+      "key_features": [
+        "Voice control",
+        "16 million colors",
+        "Scheduling",
+        "Energy efficient"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:56.711347",
+      "image_status": "Image analysis successful"
+    },
+    "HM003": {
+      "category": "home",
+      "price_range": "medium",
+      "brand": "KitchenAid",
+      "key_features": [
+        "10 speeds",
+        "5-quart bowl",
+        "Planetary mixing",
+        "Multiple attachments"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:57.021586",
+      "image_status": "Image analysis successful"
+    },
+    "HM004": {
+      "category": "home",
+      "price_range": "medium",
+      "brand": "Nespresso",
+      "key_features": [
+        "Centrifusion technology",
+        "5 cup sizes",
+        "Quick heat-up",
+        "Automatic capsule ejection"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:57.277347",
+      "image_status": "Image analysis successful"
+    },
+    "HM005": {
+      "category": "home",
+      "price_range": "high",
+      "brand": "iRobot",
+      "key_features": [
+        "Self-emptying base",
+        "Smart mapping",
+        "Voice control",
+        "Dirt detection"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:57.587466",
+      "image_status": "Image analysis successful"
+    },
+    "SP001": {
+      "category": "sports",
+      "price_range": "high",
+      "brand": "Peloton",
+      "key_features": [
+        "24-inch rotating HD touchscreen",
+        "Auto-follow resistance",
+        "Live classes",
+        "Performance tracking"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:57.831807",
+      "image_status": "Image analysis successful"
+    },
+    "SP002": {
+      "category": "sports",
+      "price_range": "high",
+      "brand": "Garmin",
+      "key_features": [
+        "Solar charging",
+        "Advanced training metrics",
+        "Maps and navigation",
+        "24/7 health monitoring"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:58.089176",
+      "image_status": "Image analysis successful"
+    },
+    "SP003": {
+      "category": "sports",
+      "price_range": "medium",
+      "brand": "Bowflex",
+      "key_features": [
+        "5-52.5 lbs per dumbbell",
+        "15 weight settings",
+        "Space-saving design",
+        "Quick-dial system"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:58.503081",
+      "image_status": "Image analysis successful"
+    },
+    "SP004": {
+      "category": "sports",
+      "price_range": "medium",
+      "brand": "Yeti",
+      "key_features": [
+        "Bear-resistant",
+        "5-day ice retention",
+        "Drainage system",
+        "Rope handles"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:38:58.760579",
+      "image_status": "Image analysis successful"
+    },
+    "SP005": {
+      "category": "sports",
+      "price_range": "medium",
+      "brand": "GoPro",
+      "key_features": [
+        "5.3K video",
+        "27MP photos",
+        "HyperSmooth 5.0",
+        "Waterproof to 33ft"
+      ],
+      "stock_status": "in_stock",
+      "analyzed_at": "2025-06-12T15:39:01.592259",
+      "image_status": "Image analysis successful"
+    }
+  },
+  "image_analysis": {
+    "EL001": {
+      "size": [
+        904,
+        840
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.08,
+      "status": "success",
+      "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          3,
+          2,
+          7
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          2,
+          15
+        ],
+        [
+          9,
+          2,
+          9
+        ]
+      ]
+    },
+    "EL002": {
+      "size": [
+        1200,
+        1200
+      ],
+      "format": "WEBP",
+      "mode": "RGBA",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://xcessorieshub.com/wp-content/uploads/2023/03/wh-ch720_Primary_image-1.webp",
+      "dominant_colors": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          44,
+          46,
+          45,
+          255
+        ],
+        [
+          43,
+          45,
+          44,
+          255
+        ],
+        [
+          53,
+          56,
+          55,
+          255
+        ],
+        [
+          54,
+          57,
+          56,
+          255
+        ]
+      ]
+    },
+    "EL003": {
+      "size": [
+        600,
+        600
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://cdn.shopify.com/s/files/1/0599/5413/5239/files/REGEN_-_Galaxy_S23_-_Cobalt_Violet_600x600.png?v=1736591961",
+      "dominant_colors": [
+        [
+          240,
+          240,
+          240
+        ],
+        [
+          250,
+          245,
+          236
+        ],
+        [
+          240,
+          235,
+          225
+        ],
+        [
+          249,
+          244,
+          234
+        ],
+        [
+          248,
+          243,
+          233
+        ]
+      ]
+    },
+    "EL004": {
+      "size": [
+        940,
+        1112
+      ],
+      "format": "PNG",
+      "mode": "RGBA",
+      "aspect_ratio": 0.85,
+      "status": "success",
+      "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104?wid=940&hei=1112&fmt=png-alpha&.v=1617126613000",
+      "dominant_colors": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          255
+        ],
+        [
+          17,
+          17,
+          17,
+          255
+        ],
+        [
+          9,
+          9,
+          9,
+          255
+        ],
+        [
+          11,
+          11,
+          11,
+          255
+        ]
+      ]
+    },
+    "EL005": {
+      "size": [
+        259,
+        194
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.34,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQJtxsUJwHf9FyJnUudcH9GM71XMw9ZAGpQ&s",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          255,
+          255
+        ],
+        [
+          255,
+          254,
+          255
+        ],
+        [
+          253,
+          253,
+          253
+        ]
+      ]
+    },
+    "CL001": {
+      "size": [
+        320,
+        320
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_728017_al&qlt=85&exclusive=1&qlt=92&wid=320&hei=320&v=1&fmt=auto",
+      "dominant_colors": [
+        [
+          232,
+          232,
+          232
+        ],
+        [
+          227,
+          227,
+          227
+        ],
+        [
+          224,
+          224,
+          224
+        ],
+        [
+          233,
+          233,
+          233
+        ],
+        [
+          234,
+          234,
+          234
+        ]
+      ]
+    },
+    "CL002": {
+      "size": [
+        1080,
+        1080
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://static-01.daraz.pk/p/6aeed6a38bb634de6e359fed0d5a5f69.jpg",
+      "dominant_colors": [
+        [
+          237,
+          238,
+          240
+        ],
+        [
+          238,
+          239,
+          241
+        ],
+        [
+          223,
+          224,
+          228
+        ],
+        [
+          28,
+          29,
+          34
+        ],
+        [
+          27,
+          28,
+          33
+        ]
+      ]
+    },
+    "CL003": {
+      "size": [
+        1460,
+        1947
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 0.75,
+      "status": "success",
+      "url": "https://images.wrangler.com/is/image/Wrangler/39902RI-HERO?$KDP-XXLARGE$",
+      "dominant_colors": [
+        [
+          226,
+          224,
+          223
+        ],
+        [
+          226,
+          226,
+          224
+        ],
+        [
+          229,
+          230,
+          227
+        ],
+        [
+          228,
+          229,
+          226
+        ],
+        [
+          232,
+          232,
+          230
+        ]
+      ]
+    },
+    "CL004": {
+      "size": [
+        199,
+        253
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 0.79,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFSD299__RKfRAM_XifzG5Z4ZNDjHJnI2mQ&s",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          21,
+          21,
+          21
+        ],
+        [
+          28,
+          28,
+          28
+        ],
+        [
+          27,
+          27,
+          27
+        ],
+        [
+          19,
+          19,
+          19
+        ]
+      ]
+    },
+    "CL005": {
+      "size": [
+        194,
+        259
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 0.75,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffOdjKH65T9RF6-Pdbi3TlVZ6_3B91IxBQA&s",
+      "dominant_colors": [
+        [
+          245,
+          245,
+          245
+        ],
+        [
+          32,
+          41,
+          50
+        ],
+        [
+          244,
+          244,
+          244
+        ],
+        [
+          33,
+          42,
+          51
+        ],
+        [
+          243,
+          243,
+          243
+        ]
+      ]
+    },
+    "HM001": {
+      "size": [
+        225,
+        225
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_A2nMuCKHYpEylINhTSUUV8d539bXjLJaMg&s",
+      "dominant_colors": [
+        [
+          18,
+          3,
+          0
+        ],
+        [
+          19,
+          4,
+          1
+        ],
+        [
+          20,
+          5,
+          2
+        ],
+        [
+          228,
+          206,
+          183
+        ],
+        [
+          230,
+          208,
+          185
+        ]
+      ]
+    },
+    "HM002": {
+      "size": [
+        289,
+        175
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.65,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTAS6WcxXiWvRqxcJ_Bqv3YfpdyCGT0euBQ&s",
+      "dominant_colors": [
+        [
+          221,
+          214,
+          204
+        ],
+        [
+          221,
+          212,
+          203
+        ],
+        [
+          182,
+          177,
+          171
+        ],
+        [
+          183,
+          178,
+          172
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ]
+    },
+    "HM003": {
+      "size": [
+        226,
+        223
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.01,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6RJ5H0aQv1FzgUSA1rwsNsFxsQzjV8XalA&s",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          253
+        ],
+        [
+          252,
+          252,
+          252
+        ],
+        [
+          14,
+          14,
+          14
+        ]
+      ]
+    },
+    "HM004": {
+      "size": [
+        275,
+        183
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.5,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGT2jshdH-qg8mCqKtrZRLYLIaD0xUP6jTg&s",
+      "dominant_colors": [
+        [
+          222,
+          221,
+          227
+        ],
+        [
+          223,
+          222,
+          228
+        ],
+        [
+          222,
+          221,
+          219
+        ],
+        [
+          236,
+          229,
+          221
+        ],
+        [
+          224,
+          223,
+          229
+        ]
+      ]
+    },
+    "HM005": {
+      "size": [
+        225,
+        225
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTXGVJBe637GVjcoJUxktE0QKwUUmBff9gQ&s",
+      "dominant_colors": [
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          253,
+          253,
+          253
+        ],
+        [
+          252,
+          252,
+          252
+        ],
+        [
+          82,
+          82,
+          82
+        ]
+      ]
+    },
+    "SP001": {
+      "size": [
+        220,
+        230
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 0.96,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWacjNVS1QOQInPCTsbPa9mKWdvd3-fLmSQ&s",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          253
+        ],
+        [
+          252,
+          252,
+          252
+        ],
+        [
+          217,
+          216,
+          222
+        ]
+      ]
+    },
+    "SP002": {
+      "size": [
+        400,
+        450
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 0.89,
+      "status": "success",
+      "url": "https://static.garmincdn.com/en/products/010-02357-10/g/28248-11-b147a335-6d64-4685-b169-4054003d684e.jpg",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          253
+        ],
+        [
+          59,
+          59,
+          59
+        ],
+        [
+          61,
+          61,
+          61
+        ]
+      ]
+    },
+    "SP003": {
+      "size": [
+        220,
+        229
+      ],
+      "format": "JPEG",
+      "mode": "RGB",
+      "aspect_ratio": 0.96,
+      "status": "success",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcSVqNxuTP4l3zokTlBXPL3g9eaCwjTjSNA&s",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          4,
+          4,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          253,
+          253,
+          253
+        ]
+      ]
+    },
+    "SP004": {
+      "size": [
+        4501,
+        4500
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 1.0,
+      "status": "success",
+      "url": "https://www.superindus.com/cdn/shop/files/Artboard_9_b67c5ae0-d9b9-4640-b990-c7434b1c36bc.jpg?v=1729919457",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          195,
+          193,
+          189
+        ],
+        [
+          197,
+          196,
+          192
+        ],
+        [
+          198,
+          197,
+          193
+        ],
+        [
+          196,
+          194,
+          190
+        ]
+      ]
+    },
+    "SP005": {
+      "size": [
+        967,
+        1000
+      ],
+      "format": "WEBP",
+      "mode": "RGB",
+      "aspect_ratio": 0.97,
+      "status": "success",
+      "url": "https://xcessorieshub.com/wp-content/uploads/2024/05/GoPro-HERO12-1.webp",
+      "dominant_colors": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          253
+        ],
+        [
+          246,
+          246,
+          246
+        ],
+        [
+          239,
+          239,
+          239
+        ]
+      ]
+    }
+  }
+}

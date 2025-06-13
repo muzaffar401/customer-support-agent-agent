@@ -1,0 +1,76 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD20250612154103",
+      "order_date": "2025-06-12T15:41:03.336395",
+      "customer": {
+        "name": "muzaffar",
+        "email": "ma9400667@gmail.com",
+        "phone": "03353958045",
+        "address": {
+          "street": "agra taj colony karachi",
+          "city": "karachi",
+          "state": "sindh",
+          "country": "pakistan",
+          "postal_code": "76650"
+        }
+      },
+      "items": [
+        {
+          "name": "MacBook Pro 2023",
+          "quantity": 1,
+          "unit_price": 1299.99,
+          "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202"
+        }
+      ],
+      "payment_method": "COD",
+      "charges": {
+        "subtotal": 1299.99,
+        "tax_rate": "1.0%",
+        "tax": 13.0,
+        "shipping_fee": 500,
+        "handling_fee": 100,
+        "cod_fee": 50,
+        "total": 1962.99
+      },
+      "status": "pending",
+      "payment_status": "pending"
+    },
+    {
+      "order_id": "ORD20250612155046",
+      "order_date": "2025-06-12T15:50:46.303054",
+      "customer": {
+        "name": "muzaffar",
+        "email": "ma9400667@gmail.com",
+        "phone": "03353958045",
+        "address": {
+          "street": "agra taj colony lyari",
+          "city": "kaarchi",
+          "state": "sindh",
+          "country": "pakistan",
+          "postal_code": "76650"
+        }
+      },
+      "items": [
+        {
+          "name": "Nike Air Max",
+          "quantity": 1,
+          "unit_price": 129.99,
+          "image_url": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_728017_al&qlt=85&exclusive=1&qlt=92&wid=320&hei=320&v=1&fmt=auto"
+        }
+      ],
+      "payment_method": "COD",
+      "charges": {
+        "subtotal": 129.99,
+        "tax_rate": "1.0%",
+        "tax": 1.3,
+        "shipping_fee": 500,
+        "handling_fee": 100,
+        "cod_fee": 50,
+        "total": 781.29
+      },
+      "status": "pending",
+      "payment_status": "completed"
+    }
+  ]
+}

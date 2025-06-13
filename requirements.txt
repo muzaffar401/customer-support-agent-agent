@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+twilio>=8.0.0
+pillow>=10.0.0
+requests>=2.31.0
+agents>=0.1.0
+pyngrok>=7.0.0
+fpdf>=1.7.2
+stripe>=8.0.0 

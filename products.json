@@ -1,0 +1,344 @@
+{
+  "products": [
+    {
+      "product_id": "EL001",
+      "name": "MacBook Pro 2023",
+      "price": 1299.99,
+      "quantity_in_stock": 7,
+      "type": "electronics",
+      "warranty_years": 2,
+      "brand": "Apple",
+      "description": "Latest MacBook Pro with M2 chip",
+      "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
+      "features": [
+        "M2 Pro chip",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch Retina display"
+      ]
+    },
+    {
+      "product_id": "EL002",
+      "name": "Sony WH-1000XM4",
+      "price": 349.99,
+      "quantity_in_stock": 25,
+      "type": "electronics",
+      "warranty_years": 1,
+      "brand": "Sony",
+      "description": "Premium noise-cancelling headphones",
+      "image_url": "https://xcessorieshub.com/wp-content/uploads/2023/03/wh-ch720_Primary_image-1.webp",
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Hi-Res Audio",
+        "Touch controls"
+      ]
+    },
+    {
+      "product_id": "EL003",
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 1199.99,
+      "quantity_in_stock": 30,
+      "type": "electronics",
+      "warranty_years": 1,
+      "brand": "Samsung",
+      "description": "Flagship Android smartphone with S Pen",
+      "image_url": "https://cdn.shopify.com/s/files/1/0599/5413/5239/files/REGEN_-_Galaxy_S23_-_Cobalt_Violet_600x600.png?v=1736591961",
+      "features": [
+        "200MP main camera",
+        "S Pen included",
+        "5000mAh battery",
+        "12GB RAM"
+      ]
+    },
+    {
+      "product_id": "EL004",
+      "name": "iPad Pro 12.9-inch",
+      "price": 1099.99,
+      "quantity_in_stock": 19,
+      "type": "electronics",
+      "warranty_years": 1,
+      "brand": "Apple",
+      "description": "Professional-grade tablet with M2 chip",
+      "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104?wid=940&hei=1112&fmt=png-alpha&.v=1617126613000",
+      "features": [
+        "M2 chip",
+        "Liquid Retina XDR display",
+        "ProMotion technology",
+        "Thunderbolt 4"
+      ]
+    },
+    {
+      "product_id": "EL005",
+      "name": "Dell XPS 15",
+      "price": 1499.99,
+      "quantity_in_stock": 12,
+      "type": "electronics",
+      "warranty_years": 2,
+      "brand": "Dell",
+      "description": "Premium ultrabook with InfinityEdge display",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQJtxsUJwHf9FyJnUudcH9GM71XMw9ZAGpQ&s",
+      "features": [
+        "12th Gen Intel Core i7",
+        "32GB RAM",
+        "1TB SSD",
+        "NVIDIA RTX 3050 Ti"
+      ]
+    },
+    {
+      "product_id": "CL001",
+      "name": "Nike Air Max",
+      "price": 129.99,
+      "quantity_in_stock": 39,
+      "type": "clothing",
+      "size": "42",
+      "material": "Mesh and synthetic",
+      "description": "Classic running shoes",
+      "image_url": "https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_728017_al&qlt=85&exclusive=1&qlt=92&wid=320&hei=320&v=1&fmt=auto",
+      "features": [
+        "Air cushioning",
+        "Breathable mesh",
+        "Durable outsole",
+        "Comfortable fit"
+      ]
+    },
+    {
+      "product_id": "CL002",
+      "name": "Adidas Ultraboost 22",
+      "price": 179.99,
+      "quantity_in_stock": 36,
+      "type": "clothing",
+      "size": "43",
+      "material": "Primeknit",
+      "description": "Premium running shoes with Boost technology",
+      "image_url": "https://static-01.daraz.pk/p/6aeed6a38bb634de6e359fed0d5a5f69.jpg",
+      "features": [
+        "Boost midsole",
+        "Primeknit upper",
+        "Continental rubber outsole",
+        "Adaptive fit"
+      ]
+    },
+    {
+      "product_id": "CL003",
+      "name": "Levi's 501 Original",
+      "price": 79.99,
+      "quantity_in_stock": 100,
+      "type": "clothing",
+      "size": "32x32",
+      "material": "Denim",
+      "description": "Classic straight-leg jeans",
+      "image_url": "https://images.wrangler.com/is/image/Wrangler/39902RI-HERO?$KDP-XXLARGE$",
+      "features": [
+        "Button fly",
+        "Straight leg",
+        "Classic fit",
+        "Durable construction"
+      ]
+    },
+    {
+      "product_id": "CL004",
+      "name": "The North Face Nuptse",
+      "price": 299.99,
+      "quantity_in_stock": 25,
+      "type": "clothing",
+      "size": "M",
+      "material": "Nylon and down",
+      "description": "Iconic puffer jacket",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFSD299__RKfRAM_XifzG5Z4ZNDjHJnI2mQ&s",
+      "features": [
+        "700-fill down",
+        "Water-resistant",
+        "Durable shell",
+        "Warm and lightweight"
+      ]
+    },
+    {
+      "product_id": "CL005",
+      "name": "Uniqlo Airism T-Shirt",
+      "price": 19.99,
+      "quantity_in_stock": 200,
+      "type": "clothing",
+      "size": "L",
+      "material": "Polyester",
+      "description": "Lightweight, breathable t-shirt",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffOdjKH65T9RF6-Pdbi3TlVZ6_3B91IxBQA&s",
+      "features": [
+        "Quick-drying",
+        "Anti-odor",
+        "UV protection",
+        "Comfortable fit"
+      ]
+    },
+    {
+      "product_id": "HM001",
+      "name": "Dyson V15 Detect",
+      "price": 699.99,
+      "quantity_in_stock": 15,
+      "type": "home",
+      "warranty_years": 2,
+      "brand": "Dyson",
+      "description": "Cordless vacuum with laser dust detection",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_A2nMuCKHYpEylINhTSUUV8d539bXjLJaMg&s",
+      "features": [
+        "Laser dust detection",
+        "60-minute runtime",
+        "HEPA filtration",
+        "Smart features"
+      ]
+    },
+    {
+      "product_id": "HM002",
+      "name": "Philips Hue Starter Kit",
+      "price": 199.99,
+      "quantity_in_stock": 30,
+      "type": "home",
+      "warranty_years": 2,
+      "brand": "Philips",
+      "description": "Smart lighting system starter kit",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTAS6WcxXiWvRqxcJ_Bqv3YfpdyCGT0euBQ&s",
+      "features": [
+        "Voice control",
+        "16 million colors",
+        "Scheduling",
+        "Energy efficient"
+      ]
+    },
+    {
+      "product_id": "HM003",
+      "name": "KitchenAid Stand Mixer",
+      "price": 399.99,
+      "quantity_in_stock": 20,
+      "type": "home",
+      "warranty_years": 1,
+      "brand": "KitchenAid",
+      "description": "Professional stand mixer",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6RJ5H0aQv1FzgUSA1rwsNsFxsQzjV8XalA&s",
+      "features": [
+        "10 speeds",
+        "5-quart bowl",
+        "Planetary mixing",
+        "Multiple attachments"
+      ]
+    },
+    {
+      "product_id": "HM004",
+      "name": "Nespresso Vertuo Plus",
+      "price": 179.99,
+      "quantity_in_stock": 25,
+      "type": "home",
+      "warranty_years": 1,
+      "brand": "Nespresso",
+      "description": "Coffee and espresso machine",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGT2jshdH-qg8mCqKtrZRLYLIaD0xUP6jTg&s",
+      "features": [
+        "Centrifusion technology",
+        "5 cup sizes",
+        "Quick heat-up",
+        "Automatic capsule ejection"
+      ]
+    },
+    {
+      "product_id": "HM005",
+      "name": "Roomba i7+",
+      "price": 799.99,
+      "quantity_in_stock": 10,
+      "type": "home",
+      "warranty_years": 1,
+      "brand": "iRobot",
+      "description": "Self-emptying robot vacuum",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTXGVJBe637GVjcoJUxktE0QKwUUmBff9gQ&s",
+      "features": [
+        "Self-emptying base",
+        "Smart mapping",
+        "Voice control",
+        "Dirt detection"
+      ]
+    },
+    {
+      "product_id": "SP001",
+      "name": "Peloton Bike+",
+      "price": 2495.0,
+      "quantity_in_stock": 6,
+      "type": "sports",
+      "warranty_years": 1,
+      "brand": "Peloton",
+      "description": "Premium smart exercise bike",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWacjNVS1QOQInPCTsbPa9mKWdvd3-fLmSQ&s",
+      "features": [
+        "24-inch rotating HD touchscreen",
+        "Auto-follow resistance",
+        "Live classes",
+        "Performance tracking"
+      ]
+    },
+    {
+      "product_id": "SP002",
+      "name": "Garmin Fenix 7",
+      "price": 699.99,
+      "quantity_in_stock": 15,
+      "type": "sports",
+      "warranty_years": 1,
+      "brand": "Garmin",
+      "description": "Premium multisport GPS watch",
+      "image_url": "https://static.garmincdn.com/en/products/010-02357-10/g/28248-11-b147a335-6d64-4685-b169-4054003d684e.jpg",
+      "features": [
+        "Solar charging",
+        "Advanced training metrics",
+        "Maps and navigation",
+        "24/7 health monitoring"
+      ]
+    },
+    {
+      "product_id": "SP003",
+      "name": "Bowflex SelectTech 552",
+      "price": 399.99,
+      "quantity_in_stock": 20,
+      "type": "sports",
+      "warranty_years": 2,
+      "brand": "Bowflex",
+      "description": "Adjustable dumbbells",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcSVqNxuTP4l3zokTlBXPL3g9eaCwjTjSNA&s",
+      "features": [
+        "5-52.5 lbs per dumbbell",
+        "15 weight settings",
+        "Space-saving design",
+        "Quick-dial system"
+      ]
+    },
+    {
+      "product_id": "SP004",
+      "name": "Yeti Tundra 45",
+      "price": 299.99,
+      "quantity_in_stock": 25,
+      "type": "sports",
+      "warranty_years": 5,
+      "brand": "Yeti",
+      "description": "Premium cooler",
+      "image_url": "https://www.superindus.com/cdn/shop/files/Artboard_9_b67c5ae0-d9b9-4640-b990-c7434b1c36bc.jpg?v=1729919457",
+      "features": [
+        "Bear-resistant",
+        "5-day ice retention",
+        "Drainage system",
+        "Rope handles"
+      ]
+    },
+    {
+      "product_id": "SP005",
+      "name": "GoPro Hero 11 Black",
+      "price": 499.99,
+      "quantity_in_stock": 28,
+      "type": "sports",
+      "warranty_years": 1,
+      "brand": "GoPro",
+      "description": "Action camera with 5.3K video",
+      "image_url": "https://xcessorieshub.com/wp-content/uploads/2024/05/GoPro-HERO12-1.webp",
+      "features": [
+        "5.3K video",
+        "27MP photos",
+        "HyperSmooth 5.0",
+        "Waterproof to 33ft"
+      ]
+    }
+  ]
+}
